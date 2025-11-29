@@ -5,7 +5,7 @@
 x = int(input("input 1st number "))
 y = int(input("input 2nd number"))
 #assign postion to input (basically make the bigger number(x/y) the first input(A) while the lower number (x/y) the second input(B))
-if x > y :
+if x > y :      #if x is greater than y make A equal to x
     a = x
     b = y
 elif x < y :
