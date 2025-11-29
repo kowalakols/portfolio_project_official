@@ -1,6 +1,22 @@
 # portfolio_project
 
 steps 
+{   number 6 summery
+        implementation of graphical user interface to collect the input and export the output
+}
+
+{ number 6 
+import tkinter
+set up your window and title
+set up size of window
+set tk packages to collect input on button click
+    ### like a = tk.entry
+then button that calls back a fuction that sets
+    a = tk.entry  to  b = tk. entry to collect the second input
+    and changes button function (with .config) to call back the echidean fuction
+then change the label with label.config(text= f"the answer is {output}")
+}
+
 first take the input "a" and "b"
 assign the input "a" to variable A 
 assign the input "b" to variable B 
